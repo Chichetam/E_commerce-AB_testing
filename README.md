@@ -17,9 +17,9 @@ The task is to assess the test results and help the company decide:
 
 ## 📁 Project Structure
 ab-testing-project/
-│
-├── ab_test_data.csv # Dataset containing user group assignments and conversions
-├── ab_test.ipynb # Jupyter Notebook with full analysis and interpretation
+
+- ab_test_data.csv # Dataset containing user group assignments and conversions
+- ab_test.ipynb # Jupyter Notebook with full analysis and interpretation
 
 
 ---
